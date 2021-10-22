@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KiveAllen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm a Chinese
+- 👀 I'm interested in Java
+- 🌱 I'm learning algorithms now
+- 💞 I hope to cooperate in learning
+- 📫 How to contact me? My email is 1348438509@qq.com
 
 <!---
 KiveAllen/KiveAllen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
